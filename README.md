@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋 I'm Ankit Khandelwal
 
-<!--
-**Ankit-aiml-2026/Ankit-aiml-2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA AI & ML Student at Poornima University, Jaipur
 
-Here are some ideas to get you started:
+🚀 Interested In:
+- Artificial Intelligence
+- Full Stack Development
+- IoT Systems
+- Data Analytics
+- Futuristic Web Applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Current Learning:
+- Java + DSA
+- Full Stack Development
+- Machine Learning
+
+🔥 Featured Projects:
+- AK MediaPlayer
+- Smart Urban City
+- Indiano Cafe
+
+📫 Connect With Me:
+- LinkedIn
+- GitHub
