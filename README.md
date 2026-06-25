@@ -22,3 +22,5 @@
 📫 Connect With Me:
 - LinkedIn
 - GitHub
+
+- [![GitHub Streak](https://streak-stats.demolab.com?user=Ankit-aiml-2026&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
