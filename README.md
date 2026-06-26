@@ -24,3 +24,4 @@
 - GitHub
 
 - [![GitHub Streak](https://streak-stats.demolab.com?user=Ankit-aiml-2026&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
+- [![GitHub Streak](https://streak-stats.demolab.com/?user=Ankit-aiml-2026)](https://git.io/streak-stats)
